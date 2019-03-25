@@ -1,2 +1,2 @@
-; block the right mouse button
+; block the middle mouse button
 rbutton::return

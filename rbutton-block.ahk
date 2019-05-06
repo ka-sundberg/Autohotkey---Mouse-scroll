@@ -1,2 +1,4 @@
 ; block the middle mouse button
-rbutton::return
+RButton::return
+
+MButton:: Winset, Alwaysontop, Toggle, A
